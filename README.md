@@ -35,7 +35,7 @@ Para garantir a integridade analítica e a confiabilidade dos números, foram re
 
 ## 📊 Principais Insights Mapeados
 
-* **Volume Comercial Global:** O relatório consolida mais de **544,03 Milhões de cópias vendidas** em todo o mundo.
+* **Volume Comercial Global:** O relatório consolida um total de  **544,03 Milhões de cópias vendidas** em todo o mundo.
 * **Fatia do Mercado Europeu:** A Europa representa **243,21 Milhões de unidades**, sendo um dos principais motores de receita da plataforma.
 * **Gênero Dominante:** Os gêneros **Shooter** (37,08 Mi) e **Action** lideram isoladamente a preferência de consumo dos jogadores.
 * **Líder Absoluto de Vendas:** **Grand Theft Auto V** é o título nº 1 em vendas no PS4, alcançando a marca de **19,39 Milhões de cópias**.
