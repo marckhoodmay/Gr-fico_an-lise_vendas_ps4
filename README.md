@@ -13,7 +13,8 @@ O objetivo principal foi transformar uma base bruta com inconsistências de esca
 
 ## 📷 Dashboard
 
-![Dashboard de Vendas PS4](https://github.com/user-attachments/assets/bc10ae00-1347-4633-a94f-c1d4cc391edc )
+![Dashboard de Vendas PS4](https://github.com/user-attachments/assets/66c34723-f424-429f-885e-4671b2e3d0dc
+ )
 
 
 
