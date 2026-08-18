@@ -13,7 +13,8 @@ O objetivo principal foi transformar uma base bruta com inconsistências de esca
 
 ## 📷 Dashboard
 
-![Dashboard de Vendas PS4](./dashboard.png)
+![Dashboard de Vendas PS4](<img width="779" height="347" alt="meu_dashboard" src="https://github.com/user-attachments/assets/052eea05-2928-4e2e-8317-1133f15a3536" />
+)
 
  *Nota: O layout foi desenvolvido em Dark Theme minimalista de alto contraste para otimizar a leitura rápida das métricas.*
 
